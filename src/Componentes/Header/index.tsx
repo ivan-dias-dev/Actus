@@ -4,7 +4,7 @@ function Header() {
     return (
         <header className={Style.main}>
             <div className={Style.secaoPai}>
-                <h1>TDS</h1>
+                <h1>Actus</h1>
                 <nav>
                     <ul className={Style.menu}>
                         <li><a href="#home">Home</a></li>
